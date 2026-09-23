@@ -101,6 +101,20 @@
       ]
     },
     {
+      "name": "网络与互联网资源",
+      "slug": "network",
+      "items": [
+        { "name": "irazasyed/awesome-cloudflare", "url": "https://github.com/irazasyed/awesome-cloudflare", "desc": "Cloudflare CDN/DNS/DDoS 相关工具与资源" },
+        { "name": "agarrharr/awesome-static-website-services", "url": "https://github.com/agarrharr/awesome-static-website-services", "desc": "免费静态网站托管、CDN、域名等服务汇总" },
+        { "name": "stn1slv/awesome-integration", "url": "https://github.com/stn1slv/awesome-integration", "desc": "系统集成、API 网关、消息队列等网络中间件资源" },
+        { "name": "Kikobeats/awesome-network-js", "url": "https://github.com/Kikobeats/awesome-network-js", "desc": "JavaScript 网络层编程资源合集" },
+        { "name": "caesar0301/awesome-pcaptools", "url": "https://github.com/caesar0301/awesome-pcaptools", "desc": "网络抓包分析工具大全" },
+        { "name": "rtckit/awesome-rtc", "url": "https://github.com/rtckit/awesome-rtc", "desc": "实时通信（WebRTC、VoIP）协议与工具合集" },
+        { "name": "secdev/awesome-scapy", "url": "https://github.com/secdev/awesome-scapy", "desc": "Scapy 网络数据包操作相关资源" },
+        { "name": "eozer/awesome-snmp", "url": "https://github.com/eozer/awesome-snmp", "desc": "SNMP 网络管理协议工具与资源" }
+      ]
+    },
+    {
       "name": "其他推荐",
       "slug": "misc",
       "items": [

@@ -13,6 +13,7 @@
 - [数据集](#数据集)
 - [阅读与知识库](#阅读与知识库)
 - [安全](#安全)
+- [网络与互联网资源](#网络与互联网资源)
 - [其他推荐](#其他推荐)
 
 ---
@@ -102,6 +103,26 @@
 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | 黑客/安全研究资源索引 | 86k+ |
 | [rshipp/awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis) | 恶意软件分析工具与资源 | 12k+ |
 | [apsdehal/awesome-ctf](https://github.com/apsdehal/awesome-ctf) | CTF（Capture The Flag）资源合集 | 10k+ |
+
+## 网络与互联网资源
+
+### 网络服务与工具
+
+| 仓库 | 说明 | Stars (约) |
+|------|------|------------|
+| [irazasyed/awesome-cloudflare](https://github.com/irazasyed/awesome-cloudflare) | Cloudflare CDN/DNS/DDoS/WAF 相关工具与资源 | 700+ |
+| [agarrharr/awesome-static-website-services](https://github.com/agarrharr/awesome-static-website-services) | 免费静态网站托管、CDN、域名等服务汇总 | 6k+ |
+| [stn1slv/awesome-integration](https://github.com/stn1slv/awesome-integration) | 系统集成、API 网关、消息队列等网络中间件资源 | 500+ |
+| [Kikobeats/awesome-network-js](https://github.com/Kikobeats/awesome-network-js) | JavaScript 网络层编程资源合集 | 600+ |
+
+### 网络协议与分析
+
+| 仓库 | 说明 | Stars (约) |
+|------|------|------------|
+| [caesar0301/awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools) | 网络抓包分析工具大全（Wireshark、tcpdump 生态） | 3k+ |
+| [rtckit/awesome-rtc](https://github.com/rtckit/awesome-rtc) | 实时通信（WebRTC、VoIP）协议与工具合集 | 300+ |
+| [secdev/awesome-scapy](https://github.com/secdev/awesome-scapy) | Scapy 网络数据包操作相关资源 | 200+ |
+| [eozer/awesome-snmp](https://github.com/eozer/awesome-snmp) | SNMP 网络管理协议工具与资源 | 100+ |
 
 ## 其他推荐
 
