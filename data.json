@@ -1,0 +1,133 @@
+{
+  "meta": {
+    "title": "Awesome Free Resources",
+    "description": "一份精心整理的 GitHub Awesome 清单索引",
+    "updated": "2026-09-23",
+    "license": "CC0-1.0"
+  },
+  "categories": [
+    {
+      "name": "综合型资源入口",
+      "slug": "general",
+      "items": [
+        { "name": "sindresorhus/awesome", "url": "https://github.com/sindresorhus/awesome", "desc": "Awesome 系列总目录，收录数百个各领域 curated list" },
+        { "name": "ripienaar/free-for-dev", "url": "https://github.com/ripienaar/free-for-dev", "desc": "开发者免费 SaaS/PaaS/IaaS/BaaS 服务清单" },
+        { "name": "public-apis/public-apis", "url": "https://github.com/public-apis/public-apis", "desc": "免费公开 API 合集" },
+        { "name": "awesome-selfhosted/awesome-selfhosted", "url": "https://github.com/awesome-selfhosted/awesome-selfhosted", "desc": "可自托管部署的开源服务清单" },
+        { "name": "sdmg15/Best-websites-a-programmer-should-visit", "url": "https://github.com/sdmg15/Best-websites-a-programmer-should-visit", "desc": "程序员应该访问的最佳网站合集" }
+      ]
+    },
+    {
+      "name": "免费学习资源",
+      "slug": "learning",
+      "items": [
+        { "name": "EbookFoundation/free-programming-books", "url": "https://github.com/EbookFoundation/free-programming-books", "desc": "免费编程书籍、在线课程、交互式教程" },
+        { "name": "ossu/computer-science", "url": "https://github.com/ossu/computer-science", "desc": "免费自学计算机科学完整课程路径" },
+        { "name": "jwasham/coding-interview-university", "url": "https://github.com/jwasham/coding-interview-university", "desc": "完整免费编程面试学习计划" },
+        { "name": "prakhar1989/awesome-courses", "url": "https://github.com/prakhar1989/awesome-courses", "desc": "知名大学免费在线课程合集" },
+        { "name": "karlhorky/learn-to-program", "url": "https://github.com/karlhorky/learn-to-program", "desc": "面向初学者的免费编程学习资源" },
+        { "name": "MunGell/awesome-for-beginners", "url": "https://github.com/MunGell/awesome-for-beginners", "desc": "适合新手的开源项目列表" },
+        { "name": "30-seconds/30-seconds-of-code", "url": "https://github.com/30-seconds/30-seconds-of-code", "desc": "30 秒即懂的代码片段合集" },
+        { "name": "freeCodeCamp/freeCodeCamp", "url": "https://github.com/freeCodeCamp/freeCodeCamp", "desc": "免费学习编程的开源课程体系" }
+      ]
+    },
+    {
+      "name": "免费开发工具与服务",
+      "slug": "dev-tools",
+      "items": [
+        { "name": "neutraltone/awesome-stock-resources", "url": "https://github.com/neutraltone/awesome-stock-resources", "desc": "免费图片、视频、字体、图标等素材资源" },
+        { "name": "brabadu/awesome-fonts", "url": "https://github.com/brabadu/awesome-fonts", "desc": "免费字体资源汇总" },
+        { "name": "AchoArnold/discount-for-student-dev", "url": "https://github.com/AchoArnold/discount-for-student-dev", "desc": "学生开发者免费/折扣资源合集" },
+        { "name": "agarrharr/awesome-cli-apps", "url": "https://github.com/agarrharr/awesome-cli-apps", "desc": "优秀命令行应用合集" }
+      ]
+    },
+    {
+      "name": "设计资源",
+      "slug": "design",
+      "items": [
+        { "name": "bradtraversy/design-resources-for-developers", "url": "https://github.com/bradtraversy/design-resources-for-developers", "desc": "开发者免费设计资源：配色、字体、图标、插画" },
+        { "name": "troxler/awesome-css-frameworks", "url": "https://github.com/troxler/awesome-css-frameworks", "desc": "免费 CSS 框架大全" },
+        { "name": "notlmn/awesome-icons", "url": "https://github.com/notlmn/awesome-icons", "desc": "免费图标项目汇总" },
+        { "name": "AllThingsSmitty/css-protips", "url": "https://github.com/AllThingsSmitty/css-protips", "desc": "CSS 技巧精选集" }
+      ]
+    },
+    {
+      "name": "面试与就业资源",
+      "slug": "career",
+      "items": [
+        { "name": "yangshun/tech-interview-handbook", "url": "https://github.com/yangshun/tech-interview-handbook", "desc": "技术面试手册：算法、行为面试、简历指导" },
+        { "name": "kamranahmedse/developer-roadmap", "url": "https://github.com/kamranahmedse/developer-roadmap", "desc": "开发者学习路线图" },
+        { "name": "lukasz-madon/awesome-remote-job", "url": "https://github.com/lukasz-madon/awesome-remote-job", "desc": "远程工作资源合集" },
+        { "name": "tramcar/awesome-job-boards", "url": "https://github.com/tramcar/awesome-job-boards", "desc": "各领域求职网站汇总" }
+      ]
+    },
+    {
+      "name": "AI 与机器学习",
+      "slug": "ai-ml",
+      "items": [
+        { "name": "josephmisiti/awesome-machine-learning", "url": "https://github.com/josephmisiti/awesome-machine-learning", "desc": "机器学习免费框架、库、软件合集" },
+        { "name": "steven2358/awesome-generative-ai", "url": "https://github.com/steven2358/awesome-generative-ai", "desc": "生成式 AI 免费资源汇总" },
+        { "name": "owainlewis/awesome-artificial-intelligence", "url": "https://github.com/owainlewis/awesome-artificial-intelligence", "desc": "AI 领域免费课程、书籍、工具" },
+        { "name": "ChristosChristofidis/awesome-deep-learning", "url": "https://github.com/ChristosChristofidis/awesome-deep-learning", "desc": "深度学习资源大全" },
+        { "name": "terryum/awesome-deep-learning-papers", "url": "https://github.com/terryum/awesome-deep-learning-papers", "desc": "深度学习经典论文列表" }
+      ]
+    },
+    {
+      "name": "数据集",
+      "slug": "datasets",
+      "items": [
+        { "name": "awesomedata/awesome-public-datasets", "url": "https://github.com/awesomedata/awesome-public-datasets", "desc": "按主题分类的高质量开放数据集清单" },
+        { "name": "leomaurodesenv/game-datasets", "url": "https://github.com/leomaurodesenv/game-datasets", "desc": "AI 游戏研究数据集汇总" }
+      ]
+    },
+    {
+      "name": "阅读与知识库",
+      "slug": "reading",
+      "items": [
+        { "name": "papers-we-love/papers-we-love", "url": "https://github.com/papers-we-love/papers-we-love", "desc": "计算机科学经典论文合集" },
+        { "name": "hackerkid/Mind-Expanding-Books", "url": "https://github.com/hackerkid/Mind-Expanding-Books", "desc": "扩展思维的书籍推荐" },
+        { "name": "getify/You-Dont-Know-JS", "url": "https://github.com/getify/You-Dont-Know-JS", "desc": "免费 JavaScript 深度书籍系列" },
+        { "name": "dypsilon/frontend-dev-bookmarks", "url": "https://github.com/dypsilon/frontend-dev-bookmarks", "desc": "前端开发资源书签大全" }
+      ]
+    },
+    {
+      "name": "安全",
+      "slug": "security",
+      "items": [
+        { "name": "sbilly/awesome-security", "url": "https://github.com/sbilly/awesome-security", "desc": "信息安全领域资源大全" },
+        { "name": "Hack-with-Github/Awesome-Hacking", "url": "https://github.com/Hack-with-Github/Awesome-Hacking", "desc": "黑客/安全研究资源索引" },
+        { "name": "rshipp/awesome-malware-analysis", "url": "https://github.com/rshipp/awesome-malware-analysis", "desc": "恶意软件分析工具与资源" },
+        { "name": "apsdehal/awesome-ctf", "url": "https://github.com/apsdehal/awesome-ctf", "desc": "CTF 资源合集" }
+      ]
+    },
+    {
+      "name": "其他推荐",
+      "slug": "misc",
+      "items": [
+        { "name": "mezod/awesome-indie", "url": "https://github.com/mezod/awesome-indie", "desc": "独立开发者资源合集" },
+        { "name": "tiimgreen/github-cheat-sheet", "url": "https://github.com/tiimgreen/github-cheat-sheet", "desc": "Git/GitHub 实用技巧速查表" },
+        { "name": "jlevy/the-art-of-command-line", "url": "https://github.com/jlevy/the-art-of-command-line", "desc": "命令行使用艺术" },
+        { "name": "mtdvio/every-programmer-should-know", "url": "https://github.com/mtdvio/every-programmer-should-know", "desc": "每个程序员都应了解的知识" },
+        { "name": "ryanmcdermott/clean-code-javascript", "url": "https://github.com/ryanmcdermott/clean-code-javascript", "desc": "JavaScript 整洁代码指南" },
+        { "name": "donnemartin/system-design-primer", "url": "https://github.com/donnemartin/system-design-primer", "desc": "系统设计入门学习资源" },
+        { "name": "practical-tutorials/project-based-learning", "url": "https://github.com/practical-tutorials/project-based-learning", "desc": "各编程语言实战项目教程合集" },
+        { "name": "trimstray/the-book-of-secret-knowledge", "url": "https://github.com/trimstray/the-book-of-secret-knowledge", "desc": "系统管理员必备工具与资源合集" }
+      ]
+    },
+    {
+      "name": "语言/平台专题",
+      "slug": "languages",
+      "items": [
+        { "name": "vinta/awesome-python", "url": "https://github.com/vinta/awesome-python", "desc": "Python 优秀框架、库、软件合集" },
+        { "name": "avelino/awesome-go", "url": "https://github.com/avelino/awesome-go", "desc": "Go 优秀框架、库、软件合集" },
+        { "name": "rust-unofficial/awesome-rust", "url": "https://github.com/rust-unofficial/awesome-rust", "desc": "Rust 优秀框架、库、软件合集" },
+        { "name": "fffaraz/awesome-cpp", "url": "https://github.com/fffaraz/awesome-cpp", "desc": "C/C++ 优秀框架、库、软件合集" },
+        { "name": "akullpp/awesome-java", "url": "https://github.com/akullpp/awesome-java", "desc": "Java 优秀框架、库、软件合集" },
+        { "name": "vsouza/awesome-ios", "url": "https://github.com/vsouza/awesome-ios", "desc": "iOS 开发资源大全" },
+        { "name": "JStumpp/awesome-android", "url": "https://github.com/JStumpp/awesome-android", "desc": "Android 开发资源大全" },
+        { "name": "Solido/awesome-flutter", "url": "https://github.com/Solido/awesome-flutter", "desc": "Flutter 开发资源大全" },
+        { "name": "serhii-londar/open-source-mac-os-apps", "url": "https://github.com/serhii-londar/open-source-mac-os-apps", "desc": "macOS 优秀开源应用合集" }
+      ]
+    }
+  ]
+}
